@@ -36,7 +36,7 @@ a {
 }
 
 .wrapper {
-  height: 90vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -154,7 +154,7 @@ z-index: 1;
 }
 
 .wrapper-contact {
-  height: 90vh;
+  height: 100vh;
   text-align: center;
   display: flex;
   flex-direction: column;
